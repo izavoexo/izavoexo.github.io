@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://izavoexo.github.io/NMx/sitemap_index.txt
+Sitemap: https://izavoexo.github.io/dOY/sitemap_index.txt
+Sitemap: https://izavoexo.github.io/iUy/sitemap_index.txt
+Sitemap: https://izavoexo.github.io/mBf/sitemap_index.txt
